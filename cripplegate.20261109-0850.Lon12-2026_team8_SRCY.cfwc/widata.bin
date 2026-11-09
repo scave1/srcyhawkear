@@ -1,0 +1,188 @@
+# Created by Octave 5.2.0, Mon Nov 09 09:10:36 2026 GMT <unknown@SRCY-Hawkear>
+# name: TouchDetails
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 20
+# name: piSourcefilename
+# type: sq_string
+# elements: 1
+# length: 50
+C:\Users\samca\Downloads\Lon12-2026_team8_SRCY.mp3
+
+
+# name: piRingingdatetime
+# type: sq_string
+# elements: 1
+# length: 13
+20261109-0850
+
+
+# name: piTower
+# type: sq_string
+# elements: 1
+# length: 21
+St Giles, Cripplegate
+
+
+# name: piRingingname
+# type: sq_string
+# elements: 1
+# length: 23
+Lon12 - 2026 team8 SRCY
+
+
+# name: piStdev
+# type: scalar
+28.40528547903957
+
+
+# name: piStdevpercentStr
+# type: sq_string
+# elements: 1
+# length: 4
+14.3
+
+
+# name: piStdevPct
+# type: scalar
+14.276867479883196
+
+
+# name: piTouchlength
+# type: scalar
+252
+
+
+# name: piPiecelength
+# type: scalar
+286
+
+
+# name: piTouchDuration
+# type: sq_string
+# elements: 1
+# length: 15
+10 mins 24 secs
+
+
+# name: piPieceDuration
+# type: sq_string
+# elements: 1
+# length: 15
+11 mins 50 secs
+
+
+# name: piMethod
+# type: sq_string
+# elements: 1
+# length: 15
+Stedman Cinques
+
+
+# name: piPealSpeed
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: string
+# type: sq_string
+# elements: 1
+# length: 13
+3 hrs 28 mins
+
+
+# name: numeric
+# type: scalar
+12489304.128596967
+
+
+
+
+# name: piNBells
+# type: scalar
+12
+
+
+# name: piRowsBadInPiece
+# type: scalar
+6
+
+
+# name: piTouchFaults
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: count
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+117
+
+
+# name: back
+# type: scalar
+108
+
+
+# name: all
+# type: scalar
+225
+
+
+
+
+# name: mean
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+22.608733244167283
+
+
+# name: back
+# type: scalar
+22.035701860501135
+
+
+# name: all
+# type: scalar
+22.203992801835408
+
+
+
+
+
+
+# name: piExpstring
+# type: sq_string
+# elements: 0
+
+
+# name: piRungon
+# type: string
+# elements: 0
+
+
+# name: piTenor
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: piNumBellsRinging
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+
+
